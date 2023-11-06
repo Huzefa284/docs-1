@@ -5,8 +5,8 @@ id: my-home-doc
 title: 🏡 Home
 hide_title: true
 ---
-
-# Chroma
+Not Available for production use
+# Chroma 
 
 **Chroma is the open-source embedding database**. Chroma makes it easy to build LLM apps by making knowledge, facts, and skills pluggable for LLMs.
 
